@@ -1,0 +1,4 @@
+.cFlex {
+  display: flex;
+  flex-direction: row;
+}
